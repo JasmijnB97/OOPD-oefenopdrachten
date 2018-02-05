@@ -3,7 +3,7 @@
 
 void setup() {
   int [] nummerlijst = {1, 2, 3, 4, 6, 7, 8, 9};
-  println(komtGetalVoorIn(10, nummerlijst));
+  println(komtGetalVoorIn(5, nummerlijst));
 }
 
 boolean komtGetalVoorIn(int getal, int[] lijst) {
